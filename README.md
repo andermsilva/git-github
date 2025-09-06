@@ -8,7 +8,7 @@ Repositório para armazenas resumos sobre o Git e GitHub do curso Versionamento 
 
 ## 💻 Resumos das Aulas
 
-| Aulas | Recursos |
+| Aulas | Recurso |
 |-------|----------|
 | Gravando Alteações no Repositorio Local | [Resumos]()
  
